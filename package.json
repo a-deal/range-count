@@ -4,7 +4,7 @@
   "description": "Algorithms designed to count the occurrences of a given number in a sorted array",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node index.js"
   },
   "author": "Andrew Deal",
   "license": "ISC",
