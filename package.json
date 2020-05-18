@@ -1,0 +1,14 @@
+{
+  "name": "range-count",
+  "version": "1.0.0",
+  "description": "Algorithms designed to count the occurrences of a given number in a sorted array",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew Deal",
+  "license": "ISC",
+  "dependencies": {
+    "performance-now": "^2.1.0"
+  }
+}
